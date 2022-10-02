@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "mehrnoosh",
+      "email": "msh@gmail.com",
+      "password": "123456",
+      "passwordConfirm": "123456",
+      "number": "09124035036",
+      "gender": "0",
+      "nationality": "IR",
+      "intrest": [
+        "React.js"
+      ],
+      "terms": true,
+      "id": 1
+    }
+  ]
+}
